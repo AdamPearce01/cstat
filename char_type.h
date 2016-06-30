@@ -11,11 +11,11 @@
  * class char_type										*
  *														*
  * Member functions										*
- *		char_type -- Class constructor					*
- *		fill -- Fill type_information with a range of	*
- *				characters types.						*
- *		is -- Checks if character is a certain type		*
- *		type -- Returns the type of a character			*
+ *	char_type -- Class constructor						*
+ *	fill -- Fill type_information with a range of		*
+ *		characters types.								*
+ *	is -- Checks if character is a certain type			*
+ *	type -- Returns the type of a character				*
  ********************************************************/
 class char_type {
 public:
